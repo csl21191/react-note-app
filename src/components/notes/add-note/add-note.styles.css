@@ -1,0 +1,14 @@
+.calendar {
+    border: none !important;
+    border-radius: 0.25rem;
+    margin-bottom: 30px;
+    padding: 1.25rem;
+}
+
+.show {
+    display: block;
+}
+
+.hide {
+    display: none;
+}
